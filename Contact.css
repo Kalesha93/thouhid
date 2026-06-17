@@ -1,0 +1,489 @@
+.a,
+.p1,
+.p2,
+.p3,
+.p4,
+.p5,
+.p6,
+.p7 {
+    display: inline-block;
+}
+
+.p1 {
+    margin-left: 120px;
+}
+.pp1{
+    text-decoration: none;
+    color: white;
+}
+
+.p2 {
+    margin-left: 60px;
+}
+.pp2{
+    text-decoration: none;
+    color: white;
+}
+
+.p3 {
+    margin-left: 60px;
+}
+.pp3{
+    text-decoration: none;
+    color: white;
+}
+.p4 {
+    margin-left: 60px;
+}
+.pp4{
+    text-decoration: none;
+    color: white;
+}
+.p5 {
+    margin-left: 60px;
+}
+.pp5{
+    text-decoration: none;
+    color: white;
+}
+.p6 {
+    margin-left: 60px;
+}
+.pp6{
+    text-decoration: none;
+    color: white;
+}
+.p7 {
+    margin-left: 120px;
+    background-color: yellow;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+    padding-top: 10px;
+    text-align: center;
+    color: black;
+}
+
+.div1 {
+    background-color: darkblue;
+    border-radius: 10px;
+    text-align: center;
+    height: 80px;
+    width: 1390px;
+    color: white;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+
+.pp1:hover,.p2:hover,.p3:hover,.p4:hover,.p5:hover,.p6:hover {
+    color: yellow;
+}
+
+.b{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.p8 {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+.div2 {
+    background-image: url(img11.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    text-align: center;
+    height: 300px;
+    padding-top: 180px;
+}
+
+.divmain {
+    height: 400px;
+    padding-top: 50px;
+    top: 0px;
+}
+.div28{
+    text-align: center;
+    font-size: 35px;
+}
+.div29{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    height: 150px;
+    width: 380px;
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 70px;
+    background-color: white;
+    transition: 1s;
+}
+
+.div30{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    height: 150px;
+    width: 380px;
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 70px;
+    background-color: white;
+    transition: 1s;
+}
+
+
+.div31{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    height: 150px;
+    width: 380px;
+    text-align: center;
+    padding-top: 15px;
+    margin-left: 40px;
+    background-color: white;
+    transition: 1s;
+}
+.div29,
+.div30,
+.div31{
+    display: inline-block;
+    vertical-align: top;
+}
+.div29:hover,.div30:hover,.div31:hover{
+    transform: translate(0px, -10px);
+    transition: 1s;
+}
+.div3{
+    background-color: whitesmoke;
+    height: 900px;
+}
+.c{
+    text-align: center;
+    font-size: 40px;
+    padding-top: 50px;
+}
+.div5{
+    padding-bottom: 100px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px black;
+    height: 630px;
+    width: 750px;
+    margin-left: 80px;
+   
+}
+.div4{
+ margin-left: 50px;
+}
+.a1,.a2,.a3,.a4,.a5{
+    width: 450px;
+    height: 40px;
+    border-radius: 5px;
+    
+}
+.a6{
+    width: 450px;
+    height: 100px;
+    border-radius: 5px;
+}
+.p10,.p11,.p12,.p13,.p14{
+   margin-top: 30px;
+
+}
+.p15{
+    background-color: yellow;
+    height: 35px;
+    width: 120px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 20px;
+    transition: 1s;
+}
+.p15:hover{
+    transform: translate(0px,-10px);
+    transition: 1s;
+}
+.pp15{
+    background-color: yellow;
+    text-decoration: none;
+}
+.div6{
+    padding-top: 50px;
+}
+.d{
+    
+    margin-left: 20px;
+}
+.p18{
+    margin-left: 20px;
+}
+.e{
+    
+    margin-left: 20px;
+}
+.p19{
+    margin-left: 20px;
+}
+.div6{
+    background-image: url(img23.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    height: 400px;
+    
+}
+.div4,.div5{
+    display: inline-block;
+    vertical-align: top;
+}
+.div7{
+    text-align: center;
+    
+}
+.div8{
+    margin-top: 50px;
+}
+.f{
+    margin-top: 100px;
+}
+.div9{
+    background-color: whitesmoke;
+    height: 500px;
+    padding-top: 50px;
+    top: 0px;
+    margin-top: 100px;
+}
+.div10{
+        text-align: center;
+        font-size: 35px;
+}
+.div11{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    height: 150px;
+    width: 380px;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-left: 70px;
+    background-color: white;
+    transition: 1s;
+}
+
+.div12{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    height: 150px;
+    width: 380px;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-left: 30px;
+    background-color: white;
+    transition: 1s;
+}
+.div13{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    height: 150px;
+    width: 380px;
+    padding-left: 20px;
+    padding-top: 5px;
+    margin-left: 30px;
+    background-color: white;
+    font-size: 15px;
+    transition: 1s;
+}
+.div11,
+.div12,
+.div13{
+    display: inline-block;
+    vertical-align:top;
+}
+.div11:hover,.div12:hover,.div13:hover{
+    transform: translate(0px, -10px);
+    transition: 1s;
+}
+
+.div14{
+    height: 500px;
+    padding-top: 50px;
+    top: 0px;
+}
+.div15{
+        text-align: center;
+        font-size: 35px;
+}
+.div16{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 50px;
+    background-color: darkblue;
+    color: white;
+}
+
+.div17{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 30px;
+    background-color: darkblue;
+    color: white;
+    transition: 1s;
+}
+.div18{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 30px;
+    background-color: darkblue;
+    color: white;
+    transition: 1s;
+}
+.div19{
+    box-shadow: 0px 0px 10px black;
+    border-radius: 5px;
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 30px;
+    background-color: darkblue;
+    color: white;
+    transition: 1s;
+}
+.div16,
+.div17,
+.div18,.div19{
+    display: inline-block;
+    vertical-align:top;
+}
+.div16:hover,.div17:hover,.div18:hover,.div19:hover{
+    transform: translate(0px, -10px);
+    transition: 1s;
+    background-color: yellow;
+    color: black;
+}
+
+.div44{
+    background-color: darkblue;
+    height: 300px;
+}
+.mm{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    padding-top: 70px;
+}
+.p41{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.p42{
+    margin-left: 450px;
+    height: 40px;
+    width: 270px;
+    border-radius: 10px;
+}
+.p43{
+    text-decoration: none;
+    font-size: 20px;
+}
+.div46{
+    background-color: yellow;
+    height: 35px;
+    width: 250px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+}
+.pp45,.pp46,.pp47,.pp48{
+    color: white;
+    text-decoration: none;
+}
+.div45,.div46{
+    display: inline-block;
+    vertical-align: middle;
+}
+.div47{
+    background-color: rgb(4, 66, 66);
+    height: 350px;
+    padding-top: 100px;
+}
+.nn{
+    color: yellow;
+    margin-left: 50px;
+    font-size: 25px;
+}
+.p44{
+    color: white;
+    margin-left: 50px;
+    font-size: 20px;
+}
+.oo{
+    color: yellow;
+    font-size: 25px;
+}
+.div49,.div50,.div51{
+    color: white;
+    font-size: 20px;
+    margin-left: 150px;
+}
+.div48{
+    padding-top: 50px;
+}
+.div49{
+    padding-top: 50px;
+}
+.div50{
+    padding-top: 45px;
+}
+.div51{
+    padding-top: 40px;
+}
+
+.pp45:hover,.pp46:hover,.pp47:hover,.pp48:hover{
+    color: yellow;
+}
+.pp{
+    color: yellow;
+    font-size: 25px;
+}
+.p49,.p50,.p51,.p52{
+    color: white;
+    font-size: 20px;
+}
+.qq{
+    color: yellow;
+    font-size: 25px;
+}
+.p53,.p54,.p55{
+    color: white;
+    font-size: 20px;
+}
+.div48,.div49,.div50,.div51{
+    display: inline-block;
+    vertical-align: top;
+}
+.div52{
+    margin-top: 1px;
+    background-color: rgb(4, 66, 66);
+    height: 50px;
+    padding-top: 15px;
+}
+.p56{
+    text-align: center;
+    color:white ;
+}
